@@ -4,15 +4,30 @@
    contain the root `toctree` directive.
 
 Документация De-core
-=================================================
+====================
 
 Содержание:
 -----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   chapter01
+   develop-utils
+   letter
+   tables
+   plagins
+   sliders
+   not-native
+   responsive
+   font-upload
+   instruction
+   study
+   ideas
+   for-de-core
+   ie-fix
+   ruby
+   git
+   image-magick
 
 
 
