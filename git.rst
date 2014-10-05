@@ -7,14 +7,13 @@ Heroku
 
 Проект не создан на heroku.com, инициализируем и создаем из консоли
 
-```bash
+.. code::
 
     git init
     heroku create название проекта
     git add .
     git commit -m “название коммита”
     git push -u heroku master
-```
 
 Стандартный config, если проект уже создан на heroku.com
 
