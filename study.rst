@@ -3,7 +3,7 @@
 
 Обучение верстке
 ----------------
-+ [Хитрости devtools](www.devtoolstips.com)
++ [Хитрости devtools]:http://devtoolstips.com/
 
 Обучение верстке
 ----------------
