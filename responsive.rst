@@ -64,7 +64,7 @@ Images
     http://ezyz.github.io/Lazy-Load-Images-without-jQuery/
 
 + http://www.smashingmagazine.com/2014/05/12/picturefill-2-0-responsive-images-and-the-perfect-polyfill/ 
-
++ http://demosthenes.info/blog/936/Responsive-Images-For-Designers-The-HTML5-picture-element подробный гайд по picture + polyfill
 Text
 ----
 
