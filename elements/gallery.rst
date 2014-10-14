@@ -1,7 +1,6 @@
 Слайдеры
 ========
 
-
 + http://fotorama.io/use/
 + http://foundation.zurb.com/docs/components/orbit.html
 + http://twitter.github.io/bootstrap/javascript.html#carousel - ссылку проверить
