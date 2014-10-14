@@ -3,6 +3,10 @@
 
 Обучение верстке
 ----------------
++ Хитрости devtools (http://devtoolstips.com/)
+
+Обучение верстке
+----------------
 
 + http://htmlacademy.ru/courses
 + http://jsbooks.revolunet.com/
