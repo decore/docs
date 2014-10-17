@@ -27,3 +27,5 @@
 + https://timty.ru/accounts/profile/ 
 + https://app.paymoapp.com/#Paymo.Dashboard/
 + http://workr.im/ 
+
++ [dui, browserify, component](http://habrahabr.ru/post/240539/)
