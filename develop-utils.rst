@@ -7,6 +7,11 @@
 
 + http://webdevchecklist.com/
 
+Визуальные редакторы верстки
+----------------------------
+
++ https://jetstrap.com/
+
 БЭМ
 ---
 + http://www.jetstyle.ru/novosti/2013/6/4/18957 бэм+джанга+нод
@@ -57,6 +62,7 @@ js bitcoin
 ----------
 
 + https://github.com/bitpay/bitcore 
+
 Cordrops
 --------
 
@@ -359,7 +365,14 @@ css-анимация
 affix аффиксы
 -------------
 
-+ http://bigspotteddog.github.io/ScrollToFixed/ + http://www.thepetedesign.com/demos/autofix_demo.html + http://leafo.net/sticky-kit/ + http://dropthebit.com/demos/stickyfloat/stickyfloat.html + http://yckart.github.io/jquery.fixer.js/+ http://www.directlyrics.com/code/lockfixed/demo.html+ http://webpop.github.io/jquery.pin/+ навороченное решение Марка в купи.ру
++ http://bigspotteddog.github.io/ScrollToFixed/ 
++ http://www.thepetedesign.com/demos/autofix_demo.html 
++ http://leafo.net/sticky-kit/ 
++ http://dropthebit.com/demos/stickyfloat/stickyfloat.html 
++ http://yckart.github.io/jquery.fixer.js/
++ http://www.directlyrics.com/code/lockfixed/demo.html
++ http://webpop.github.io/jquery.pin/
++ навороченное решение Марка в купи.ру
 
 
 Карты map
@@ -449,7 +462,6 @@ iframe
 
 + http://www.jquery4u.com/plugins/4-detect-darklight-background-jquery-plugins/ 
 + https://github.com/kennethcachia/Background-Check
-+ http://qrohlf.com/trianglify/  — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
 
 
 Модальные окна
@@ -503,6 +515,8 @@ svg библиотеки
 + http://www.svgjs.com/
 + http://raphaeljs.com/
 
++ http://qrohlf.com/trianglify/  — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
+
 svg иконки реализация
 
 + http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/
@@ -553,14 +567,6 @@ offcanvas
 --------
 
 + https://github.com/VodkaBears/MotionDetector.js 
-
-
-Для vrussia.ru
---------------
-+ своя карта 
-    http://www.neveldo.fr/mapael/
-+ своя карта 
-    http://kartograph.org/ 
 
 
 Для klava.org
@@ -659,13 +665,13 @@ User-тестирование
 +keymage.js
 + http://www.impressivewebs.com/questionmark-js-shortcut-keys-displayed/ список горячих сочетаний на сайте
 
+для мобильной версии
+--------------------
 
-Векторные иконки пластиковых карточек
--------------------------------------
++ https://github.com/ftlabs/fastclick убирает ожидание двойного клика
 
-+ http://lovicons.com/icons/item/payment-card-glyphs-icon-set.html для tenerife land
-+ http://tympanus.net/Development/AnimatedResponsiveImageGrid/index3.html для мобильной версии
-+ https://github.com/ftlabs/fastclick убирает ожидание двойного клика конвертер всего во все
+конвертер всего во все
+----------------------
 + https://cloudconvert.org/formats
 
 Проверка текста на лишние слова
@@ -676,7 +682,11 @@ User-тестирование
 Цветовая схема сайта (можно использовать для подвала)
 -----------------------------------------------------
 
-+ http://colorpalettes.gerlandopiro.com/ карты
++ http://colorpalettes.gerlandopiro.com/
+
+Карты
+-----
+
 + http://map-icons.com/ иконки для карт
 + http://googlemapbuilder.mynameisdonald.com/ цветовые схемы для карт
 

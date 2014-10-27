@@ -23,7 +23,11 @@
 + https://www.discovermeteor.com/ meteor курс
 + http://practice.typekit.com/reference/ типографика
 + http://www.sitepoint.com/introduction-mean-stack/ angular + express + mongo
-+ http://www.git-tower.com/learn/ebook/command-line/branching-merging/merging#start git учет времени
++ http://www.git-tower.com/learn/ebook/command-line/branching-merging/merging#start git
+
+учет времени
+------------
+
 + https://timty.ru/accounts/profile/ 
 + https://app.paymoapp.com/#Paymo.Dashboard/
 + http://workr.im/ 

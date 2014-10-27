@@ -63,3 +63,10 @@
 + http://tympanus.net/Blueprints/ResponsiveIconGrid/
 + http://tympanus.net/Blueprints/HorizontalSlideOutMenu/
 + http://vitalets.github.io/x-editable/demo.html
++ http://lovicons.com/icons/item/payment-card-glyphs-icon-set.html Векторные иконки пластиковых карточек
+
+для tenerife land
+-----------------
+
++ https://github.com/ftlabs/fastclick убирает ожидание двойного клика
+
