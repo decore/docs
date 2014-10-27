@@ -25,7 +25,7 @@
 + http://www.sitepoint.com/introduction-mean-stack/ angular + express + mongo
 + http://www.git-tower.com/learn/ebook/command-line/branching-merging/merging#start git
 
-учет времени
+Учет времени
 ------------
 
 + https://timty.ru/accounts/profile/ 
@@ -33,3 +33,8 @@
 + http://workr.im/ 
 
 + [dui, browserify, component](http://habrahabr.ru/post/240539/)
+
+Списки с плагинами
+------------------
+
++ http://repo.jque.re/browse/

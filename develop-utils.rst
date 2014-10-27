@@ -149,13 +149,6 @@ card каточки
 + http://avatars.io/
 
 
-Табы
-----
-
-+ http://vdw.github.io/Tabslet/ нормальные табы
-+ http://css-tricks.com/svg-tabs-using-svg-shape-template/ табы сложной формы на свг
-
-
 parallax паралакс
 -----------------
 
@@ -206,18 +199,6 @@ fileupload загрузка файлов
 + http://resumablejs.com/
 
 
-input mask
-----------
-
-+ http://bradfrostweb.com/blog/post/labelmask/ 
-+ (input mask в купи.ру)
-
-
-Tags теги
----------
-
-+ http://sniperwolf.github.io/taggingJS/
-
 
 Обрезка текста на нескольких строчках clip text-overflow
 --------------------------------------------------------
@@ -233,125 +214,37 @@ Tags теги
 + jquery ui slider
 
 
-Popover поповер
----------------
-
-+ http://github.hubspot.com/drop/docs/welcome/ 
 
 
-tooltips тултип
----------------
-
-+ http://github.hubspot.com/tooltip/docs/welcome/
-+ http://projects.nickstakenburg.com/tipped 
-+ http://www.opentip.org/ 
 
 
-Уведомления nofity
-------------------
-
-+ http://sciactive.com/pnotify/ 
-+ http://tympanus.net/Development/NotificationStyles/index.html
-
-Графы
------
-
-+ http://sigmajs.org/examples.html
-+ https://github.com/cytoscape/cytoscape.js
-+ https://github.com/mbostock/d3/wiki/Gallery и графы и графики
-+ http://visjs.org/ 
-
-timeline
---------
-
-+ http://visjs.org/ 
 
 
-Графики
--------
-
-+ http://fastly.github.io/epoch/ 
-+ http://dunxrion.github.io/aristochart/
-+ http://www.flotcharts.org/
-+ https://github.com/DmitryBaranovskiy/g.raphael/
-+ http://code.shutterstock.com/rickshaw/examples/
-+ http://www.oesmith.co.uk/morris.js/
-+ http://g.raphaeljs.com/
-+ http://dunxrion.github.io/aristochart/
-+ http://d3js.org/
-+ http://www.highcharts.com/
-+ http://zurb.com/playground/pizza-amore-charts-and-graphs 
 
 
-Иконки icons
-------------
-
-поиск по коллекциям
-
-+ http://www.flaticon.com/
-+ https://www.iconfinder.com/
-+ http://icomoon.io/app/#/select
-+ http://fontawesome.io/icons/
 
 
-Шрифты
-------
-
-иконочные шрифты
-
-+ http://fontastic.me
-+ http://kerningjs.com/ полное управление глифами в тексте
-
-icomoon
-+ http://sassline.com/ baseline
-+ http://tympanus.net/Tutorials/TexturedText/index3.html градиенты и текстуры поверх текста
-
-создание шрифтов
-+ http://www.singsys.com/blog/free-tools-to-make-your-own-font/ 
-+ http://glyphrstudio.com/ 
-
-тень к тексту 
-+ http://bigspaceship.github.io/shine.js/ 
 
 
-Масштабирование текстов
------------------------
-
-+ http://simplefocus.com/flowtype/
 
 
-Кнопки
-------
-
-+ http://alexwolfe.github.io
 
 
-Сетки
------
-
-+ http://neat.bourbon.io/ 
-+ http://jeet.gs/ 
-
-Сетки по-типу масонри masonry masonri
-+ http://masonjs.com/
-+ http://ed-lea.github.io/jquery-collagePlus/
-+ http://collageplus.edlea.com/ только картинки, разные эффекты
-+ http://salvattore.com/
-+ http://akoenig.github.io/angular-deckgrid/#/ на angular
-+ http://brunjo.github.io/rowGrid.js/ 
-+ http://demosthenes.info/blog/844/Easy-Masonry-Layout-With-Flexbox на flexbox
 
 
-css-анимация
-------------
 
-+ http://adamschwartz.co/magic-of-css/chapters/6-transitions/ туториал анимация
-+ https://github.com/h5bp/Effeckt.css мега-библиотека, анимация + боковое меню
-+ http://lazylinepainter.info/ рисует поэтапно svg картинку
-+ http://wellcaffeinated.net/PhysicsJS/examples/showcase.html#demo-8 физика
-+ http://a-jie.github.io/Agile/ js to css3
-+ http://elrumordelaluz.github.io/csshake/#1 
-+ https://github.com/nosir/obelisk.js кубики
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Полифилы
@@ -381,41 +274,18 @@ affix аффиксы
 + http://bashooka.com/coding/powerful-jquery-image-map-plugins/
 
 
-Текстария на весь экран 
------------------------
-
-+ http://usablica.github.io/widearea/
 
 
-3d
---
-
-+ http://jdan.github.io/isomer/ 
-+ http://seenjs.io/demo-multi-views.html 3d to svg
 
 
-youtube
--------
-
-+ http://codepen.io/mike-zarandona/full/FELxi/ pretty
 
 
-Валидация
----------
-
-+ http://parsleyjs.org/ rails и django
-+ http://reactiveraven.github.io/jqBootstrapValidation/ для bootstrap
-+ http://foundation.zurb.com/docs/components/abide.html для zurb
-+ https://github.com/posabsolute/jQuery-Validation-Engine
 
 
-Микроразметка
--------------
 
-+ http://webmaster.yandex.ru/microtest.xml валидатор
-+ https://www.google.com/webmasters/markup-helper/u/0/ выбрать блоки прямо на сайте классные сайты по верстке:
-+ http://tympanus.net/codrops/
-+ http://designshack.net
+
+
+
 
 
 Картинка в шапке на всю ширину и высоту
@@ -506,51 +376,6 @@ css фреймворки
 + http://rad-js.com/documentation/ 
 
 
-SVG
-----
-
-svg библиотеки
-
-+ http://snapsvg.io/
-+ http://www.svgjs.com/
-+ http://raphaeljs.com/
-
-+ http://qrohlf.com/trianglify/  — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
-
-svg иконки реализация
-
-+ http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/
-
-Как упаковывать svg
-
-+ http://www.sitepoint.com/designers-guide-working-with-svg/ 
-
-SVG в шрифт 
-
-+ http://iconvau.lt/
-+ http://css-tricks.com/web-audio-api-sound-on-hover/ добавление звука при наведении
-+ http://tympanus.net/Development/IconHoverEffects/ классная анимация ширфтовых иконок при ховере
-
-
-zoom зум
---------
-
-+ http://mark-rolich.github.io/Magnifier.js/ 
-+ https://github.com/mark-rolich/Event.js
-+ http://www.codeforest.net/jquery-zoom-plugin-cloud-zoom
-+ http://www.professorcloud.com/mainsite/cloud-zoom-test.htm на главной странице есть еще зумы
-+ http://www.unpezvivo.com/proyectos/codecanyon/zoomer/samples/01_dark_sample/index.html
-+ http://www.unpezvivo.com/proyectos/codecanyon/zoomer/samples/02_light_sample/index.html#!prettyPhoto
-+ http://codecanyon.net/item/epic-image-zoom/full_screen_preview/264395?ref=janecross
-+ http://codecanyon.net/item/imagezoom-responsive-jquery-image-zoom-plugin/full_screen_preview/4805256?ref=janecross
-+ http://codecanyon.net/item/zoome-jquery-image-zoom-effect-plugin/full_screen_preview/2973067?ref=janecross
-+ http://codecanyon.net/item/jquery-image-zoom-and-panning-plugin/full_screen_preview/165313?ref=janecross
-+ http://www.elevateweb.co.uk/image-zoom/examples
-+ http://zoomsl.tw1.ru/example/
-+ http://www.ajax-zoom.com/examples/example32.php
-+ http://www.mind-projects.it/projects/jqzoom/demos.php#demo1 
-
-
 offcanvas
 ---------
 
@@ -568,18 +393,6 @@ offcanvas
 
 + https://github.com/VodkaBears/MotionDetector.js 
 
-
-Для klava.org
--------------
-
-+ https://github.com/sniperwolf/taggingJS 
-+ http://tympanus.net/Development/OffCanvasMenuEffects/cornermorph.html 
-
-
-Для тренажера nitro
--------------------
-
-+ http://dropthebit.com/demos/fancy_input/fancyInput.html
 
 
 User-тестирование
@@ -701,14 +514,6 @@ utf-8
 
 + http://www.utf8icons.com/
 
-
-Локализация проектов
---------------------
-
-+ https://crowdin.net/page/in-action
-+ https://webtranslateit.com/en
-+ http://habrahabr.ru/company/alconost/blog/214567/
-+ https://www.transifex.com/projects/p/bitbucket/
 
 
 Базы с правдоподобными данными

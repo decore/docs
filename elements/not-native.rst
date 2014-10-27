@@ -1,7 +1,6 @@
 Ненативные элементы
 ===================
 
-
 Скролл
 ------
 
@@ -13,6 +12,13 @@
 + http://rocha.la/jQuery-slimScroll
 + http://codecanyon.net/item/rollbar-jquery-scrollbar-plugin/full_screen_preview/2113353?ref=jqueryrain (Арсению нравится этот вариант по цвету и форме, но скрипт платный)
 + http://tympanus.net/Development/SelectInspiration/index7.html
+
+Стилизация скролл-бара
+----------------------
+
++ http://www.xiper.net/collect/js-plugins/ui/jscrollpane2.html Подробное объяснение и параметры настроики (все очень подробно)
++ http://habrahabr.ru/post/177399/
++ http://gromo.github.io/jquery.scrollbar/
 
 Селекты
 -------

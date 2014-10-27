@@ -55,3 +55,8 @@
    http://elvery.net/demo/responsive-tables/
 
    http://tympanus.net/Development/ArticleIntroEffects/index.html
+
+Фиксирование шапки таблицы
+--------------------------
+
++ http://fixedheadertable.com/
