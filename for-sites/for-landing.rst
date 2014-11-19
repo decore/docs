@@ -1,5 +1,5 @@
 Для лендингов
-===============
+-------------
 
 + http://tympanus.net/Development/SectionSeparators/ типы разделителей
 + http://mynoise.net/noiseMachines.php

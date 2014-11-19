@@ -8,7 +8,7 @@
 + http://tympanus.net/codrops/2012/08/04/freebie-soft-ui-kit-psd/ соц кнопки и тема
 
 Идея для лого для сайта по вышивке
-----------------------------------
+""""""""""""""""""""""""""""""""""
 
 + http://dribbble.com/shots/1043405-Alterations-Tailoring
 + http://dribbble.com/shots/101774-Needle-Exchangelogo2

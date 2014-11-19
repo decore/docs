@@ -13,21 +13,16 @@
    :maxdepth: 1
 
    develop-utils
-   letter
-   tables
-   plagins
-   sliders
-   not-native
+   environment
+   localization
+   email
+   elements
+   for-sites
    responsive
    font-upload
-   instruction
    study
-   ideas
-   for-de-core
+   svg
    ie-fix
-   ruby
-   git
-   image-magick
 
 
 

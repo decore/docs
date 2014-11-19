@@ -3,7 +3,7 @@
 
 Обучение верстке
 ----------------
-+ [Хитрости devtools](http://devtoolstips.com/)
++ http://devtoolstips.com/ Хитрости devtools
 
 Обучение верстке
 ----------------
@@ -32,7 +32,7 @@
 + https://app.paymoapp.com/#Paymo.Dashboard/
 + http://workr.im/ 
 
-+ [dui, browserify, component](http://habrahabr.ru/post/240539/)
++ http://habrahabr.ru/post/240539/ dui, browserify, component
 
 Списки с плагинами
 ------------------

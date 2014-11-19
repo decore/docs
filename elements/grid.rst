@@ -1,10 +1,11 @@
 Сетки
------
+=====
 
 + http://neat.bourbon.io/ 
 + http://jeet.gs/ 
 
 Сетки по-типу масонри masonry masonri
+"""""""""""""""""""""""""""""""""""""
 + http://masonjs.com/
 + http://ed-lea.github.io/jquery-collagePlus/
 + http://collageplus.edlea.com/ только картинки, разные эффекты
