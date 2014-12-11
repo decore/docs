@@ -8,3 +8,9 @@ css-анимация
 + http://a-jie.github.io/Agile/ js to css3
 + http://elrumordelaluz.github.io/csshake/#1 
 + https://github.com/nosir/obelisk.js кубики
++ http://tweene.com/docs/speed-control/ прокси для 3 библиотек анимации
+
+svg-анимация
+------------
+http://alexk111.github.io/SVG-Morpheus/ трансформирует любую картинку в другую картинку
+http://maxwellito.github.io/vivus/ рисует path

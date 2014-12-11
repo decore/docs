@@ -2,6 +2,7 @@
 ========
 
 + http://fotorama.io/use/
++ http://photoswipe.com/
 + http://foundation.zurb.com/docs/components/orbit.html
 + http://twitter.github.io/bootstrap/javascript.html#carousel - ссылку проверить
 + https://github.com/jsor/jcarousel отличный слайдер для товаров

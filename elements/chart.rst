@@ -1,6 +1,8 @@
 Графики
 ========
 
++ http://www.zingchart.com/
++ http://metricsgraphicsjs.org/examples.htm
 + http://raw.densitydesign.org/ генерация
 + http://fastly.github.io/epoch/ 
 + http://dunxrion.github.io/aristochart/

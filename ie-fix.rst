@@ -51,3 +51,6 @@ Flex в IE (и не только)
 .. code::
 
 	<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
+
+
+https://github.com/owenversteeg/min Фреймворк для ie5
