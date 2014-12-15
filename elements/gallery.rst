@@ -2,6 +2,7 @@
 ========
 
 + http://fotorama.io/use/
++ http://tympanus.net/Development/WobblySlideshowEffect/
 + http://photoswipe.com/
 + http://foundation.zurb.com/docs/components/orbit.html
 + http://twitter.github.io/bootstrap/javascript.html#carousel - ссылку проверить
@@ -12,3 +13,4 @@
 + http://kreaturamedia.com/layerslider-responsive-jquery-slider-plugin/ 
 + http://tympanus.net/Development/ItemTransitions/index3.html варианты анимации
 + http://tympanus.net/Development/AnimatedResponsiveImageGrid/index3.html
++ http://tympanus.net/Development/MockupSlideshow/index4.html галлерея вместо скриншота
