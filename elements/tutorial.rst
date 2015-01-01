@@ -1,6 +1,7 @@
 Обучалки
 ========
 
++ http://zzarcon.github.io/focusable/ 
 + http://ellekasai.github.io/purplecoat.js/
 + http://easelinc.github.io/tourist/
 + http://heelhook.github.io/chardin.js/

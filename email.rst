@@ -10,4 +10,8 @@
 + https://github.com/advancedrei/BootstrapForEmail 
 + http://alistapart.com/article/can-email-be-responsive 
 + http://www.benjystanton.co.uk/blog/making-responsive-html-emails/
++ http://djfarrelly.github.io/MailDev/ тестирование писем на локалке
++ билдер писем, хорошая статья https://litmus.com/builder/c5a1d7a
++ https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email
++ https://litmus.com/
 

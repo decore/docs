@@ -15,3 +15,4 @@
 + http://d3js.org/
 + http://www.highcharts.com/
 + http://zurb.com/playground/pizza-amore-charts-and-graphs 
++ http://www.smashingmagazine.com/2014/12/16/chartist-js-open-source-library-responsive-charts/

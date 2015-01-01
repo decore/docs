@@ -48,8 +48,11 @@
 + http://habrahabr.ru/post/203440/
 + http://ru.bem.info/articles/start-with-project-stub/ 
 
+Javascript
+-------
++ http://habrahabr.ru/post/246331/ СТАТЬИ НА ХАБРЕ
 
-Angular 
+Angular
 -------
 + https://github.com/jmcunningham/AngularJS-Learning
 + http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/ 
@@ -67,3 +70,7 @@ Angular
 + http://www.cheatography.com/proloser/cheat-sheets/angularjs/ шпаргалка
 + http://mgcrea.github.io/angular-strap/ bootstrap
 + http://hendrixer.github.io/ animation
+
+Новичкам
+-------
++ http://chriswrightdesign.com/experiments/flexbox-adventures/ понимание флексбокса
