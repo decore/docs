@@ -7,6 +7,8 @@
 React
 ========
 + https://github.com/af/JSnoX работа с деревом react
++ https://github.com/react-component/calendar
++ http://gcanti.github.io/tcomb-form/demo/index.html
 
 Angular
 ========
