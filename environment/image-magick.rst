@@ -5,7 +5,7 @@ Image Magick
 
 .. code::
 
-sudo apt-get install -y imagemagick
+   sudo apt-get install -y imagemagick
 
 Изменение размера и качества картинок
 -------------------------------------
