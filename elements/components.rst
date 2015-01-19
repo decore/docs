@@ -10,6 +10,7 @@ React
 + https://github.com/react-component/calendar
 + http://gcanti.github.io/tcomb-form/demo/index.html
 + http://wix.github.io/react-templates/ шаблоны
++ http://viget.com/extend/building-a-multi-step-registration-form-with-react Создание многошаговой регистрационной формы с помощью React
 
 Angular
 ========

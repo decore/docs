@@ -3,6 +3,7 @@ IE fixes
 
 Flex в IE (и не только)
 -----------------------
+Список всех багов флексбокса для ie: https://github.com/philipwalton/flexbugs
 .. code::
 
 		flex: 1;

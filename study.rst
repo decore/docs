@@ -71,6 +71,14 @@ Angular
 + http://mgcrea.github.io/angular-strap/ bootstrap
 + http://hendrixer.github.io/ animation
 
+React
+-------
++ http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
+
+Meteor
+-------
++ http://habrahabr.ru/post/248169/ Большой список материалов для изучения Meteor.JS
+
 Новичкам
 -------
 + http://chriswrightdesign.com/experiments/flexbox-adventures/ понимание флексбокса
