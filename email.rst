@@ -1,6 +1,7 @@
 Верстка писем
 =============
 
++ http://ux.mailchimp.com/patterns/typography
 + http://buttons.cm/ Пуленепробиваемые кнопки для емейл-рассылок
 + http://backgrounds.cm/ фоновые изображения
 + http://www.campaignmonitor.com/templates/ конструктор
