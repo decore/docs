@@ -3,6 +3,28 @@
 netstat -tulpn | grep :80
 ```
 
+#### узнать версию и разрядность системы, а также версию ядра
+```sh
+cat /etc/*release* 
+DISTRIB_ID=Ubuntu 
+DISTRIB_RELEASE=8.04 
+DISTRIB_CODENAME=hardy 
+DISTRIB_DESCRIPTION="Ubuntu 8.04.1"
+```
+или
+```sh
+lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 8.04.1
+Release:	8.04
+Codename:	hardy
+```
+```sh
+uname -a
+Linux parazit 2.6.35-24-generic #42-Ubuntu SMP Thu Dec 2 01:41:57 UTC 2010 i686 GNU/Linux
+```
+
 #### настройка ssh на сервере
 со своего компа
 ```sh
