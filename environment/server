@@ -1,0 +1,5 @@
+useradd suenot
+passwd suenot
+/etc/sudoers
+suenot    ALL=(ALL:ALL) ALL
+ssh-copy-id user@server
