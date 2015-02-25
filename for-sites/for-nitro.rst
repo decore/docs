@@ -68,6 +68,9 @@ User-тестирование
 Приборная панель
 """"""""""""""""
 
++ http://codepen.io/RadValentin/pen/zmsox
++ http://codepen.io/clknap/pen/raJowJ
++ http://codepen.io/maggiben/pen/DpuBl
 + http://anthonyterrien.com/knob/  jQuery Knob
 + https://github.com/nostalgiaz/donuts спидометр
 + http://ahrengot.com/playground/tweenmax-examples/counter/ изменение значения числа с изменяющейся скоростью 
