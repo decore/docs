@@ -6,7 +6,6 @@
 + http://photoswipe.com/
 + http://foundation.zurb.com/docs/components/orbit.html
 + http://twitter.github.io/bootstrap/javascript.html#carousel - ссылку проверить
-+ https://github.com/jsor/jcarousel отличный слайдер для товаров
 + https://github.com/nolimits4web/Swiper
 + https://github.com/IanLunn/Sequence transition slider
 + https://github.com/codrops/SlitSlider
@@ -14,3 +13,9 @@
 + http://tympanus.net/Development/ItemTransitions/index3.html варианты анимации
 + http://tympanus.net/Development/AnimatedResponsiveImageGrid/index3.html
 + http://tympanus.net/Development/MockupSlideshow/index4.html галлерея вместо скриншота
+
+
+Слайдеры для товаров
+=======
++ http://www.owlcarousel.owlgraphic.com/ слайдер для товаров
++ https://github.com/jsor/jcarousel слайдер для товаров

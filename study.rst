@@ -41,6 +41,7 @@
 
 БЭМ
 ---
++ http://habrahabr.ru/company/yandex/blog/251473/
 + http://www.jetstyle.ru/novosti/2013/6/4/18957 бэм+джанга+нод
 + http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
 + http://montagejs.org/docs/montagejs-examples.html
