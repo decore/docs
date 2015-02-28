@@ -1,4 +1,4 @@
-useradd suenot
+useradd -m suenot
 passwd suenot
 /etc/sudoers
 suenot    ALL=(ALL:ALL) ALL
