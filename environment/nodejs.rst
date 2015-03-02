@@ -1,7 +1,4 @@
-Инструкции по установкам
-========================
-
-nvm+node+youman
+nvm+node+yoman
 ---------------
 
 https://github.com/creationix/nvm
