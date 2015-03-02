@@ -14,9 +14,9 @@ https://github.com/creationix/nvm
 
 .. code::
 
-    nvm install 0.10
-    nvm use 0.10
-    nvm alias default 0.10
+    nvm install 0.12
+    nvm use 0.12
+    nvm alias default 0.12
 
 .. code::
 
