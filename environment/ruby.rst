@@ -11,8 +11,8 @@ rvm + ruby + rails
 
 .. code::
 
-    rvm install 2.0.0
-    rvm use 2.0.0 --default
+    rvm install 2.1
+    rvm use 2.1 --default
 
 или
 
@@ -24,8 +24,8 @@ rvm + ruby + rails
 
 .. code::
 
-    rvm install 2.0.0
-    rvm use 2.0.0 --default
+    rvm install 2.1
+    rvm use 2.1 --default
 
 на каждый тип проекта делаем свой gemset
 
