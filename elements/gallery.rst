@@ -1,6 +1,7 @@
 Слайдеры
 ========
 
++ http://flickity.metafizzy.co/
 + http://fotorama.io/use/
 + http://tympanus.net/Development/WobblySlideshowEffect/
 + http://photoswipe.com/

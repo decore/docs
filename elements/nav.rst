@@ -13,3 +13,7 @@
 Magic-line
 ---------
 + http://codepen.io/vsync/pen/biCEv
+
+Dropdown
+---------
++ http://codyhouse.co/demo/secondary-sliding-navigation/index.html#0
