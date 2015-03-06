@@ -4,7 +4,7 @@
 + http://flickity.metafizzy.co/
 + http://fotorama.io/use/
 + http://tympanus.net/Development/WobblySlideshowEffect/
-+ http://photoswipe.com/
+
 + http://foundation.zurb.com/docs/components/orbit.html
 + http://twitter.github.io/bootstrap/javascript.html#carousel - ссылку проверить
 + https://github.com/nolimits4web/Swiper
@@ -15,6 +15,11 @@
 + http://tympanus.net/Development/AnimatedResponsiveImageGrid/index3.html
 + http://tympanus.net/Development/MockupSlideshow/index4.html галлерея вместо скриншота
 
+Fancybox
+=======
++ http://photoswipe.com/
++ fancybox 2
++ venobox
 
 Слайдеры для товаров
 =======
