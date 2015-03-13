@@ -17,3 +17,7 @@ Magic-line
 Dropdown
 ---------
 + http://codyhouse.co/demo/secondary-sliding-navigation/index.html#0
+
+Слева
+---------
++ http://codepen.io/suez/pen/emjwvP/ супер-меню на svg

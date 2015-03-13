@@ -35,6 +35,11 @@ svg иконки реализация
 """""""""""""""""""
 + http://www.sitepoint.com/designers-guide-working-with-svg/
 
+Как подключать inline svg через localstorage
+"""""""""""""""""""
++ http://osvaldas.info/caching-svg-sprite-in-localstorage
++ https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/ свг спрайт
+
 SVG в шрифт
 """""""""""
 + http://iconvau.lt/
@@ -44,3 +49,7 @@ SVG в шрифт
 Polyfill
 """"""""
 + http://www.sitepoint.com/graceful-fallback-svgs-old-ie/ polyfill svg
+
+Gulp
+""""""""
++ https://github.com/w0rm/gulp-svgstore
