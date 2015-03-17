@@ -7,6 +7,7 @@
 
 
 Для телефонов
++ https://mango.github.io/slideout/ для телефона с нативным тачем
 + http://codepen.io/fbrz/pen/bNdMwZ тачевая
 + http://tympanus.net/Freebies/Boxify/# здесь хорошая менюшка для телефона
 
