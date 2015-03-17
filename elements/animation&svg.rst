@@ -26,7 +26,7 @@ svg библиотеки
 + http://bonsaijs.org/
 + http://www.svgjs.com/
 + http://raphaeljs.com/
-+ http://qrohlf.com/trianglify/  — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
++ http://qrohlf.com/trianglify/ — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
 
 svg иконки реализация
 """""""""""""""""""""
@@ -35,6 +35,11 @@ svg иконки реализация
 Как упаковывать svg
 """""""""""""""""""
 + http://www.sitepoint.com/designers-guide-working-with-svg/
+
+Как подключать inline svg через localstorage
+"""""""""""""""""""
++ http://osvaldas.info/caching-svg-sprite-in-localstorage
++ https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/ свг спрайт
 
 SVG в шрифт
 """""""""""
@@ -54,3 +59,8 @@ Polyfill
 Примеры
 """"""""
 + https://designer.illustrio.com/galleries?id=54215e00503b5c20c3337bfd&example=542c38335b4cf1e85db5649c хорошая галерия примеров свг
++ http://www.sitepoint.com/graceful-fallback-svgs-old-ie/ polyfill svg
+
+Gulp
+""""""""
++ https://github.com/w0rm/gulp-svgstore

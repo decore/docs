@@ -18,3 +18,7 @@ Docs
 * [sliders](https://github.com/de-core/Docs/blob/sliders.rst)
 * [study](https://github.com/de-core/Docs/blob/master/study.rst)
 * [tables](https://github.com/de-core/Docs/blob/master/tables.rst)
+
+
+### Другие сборники скриптом
++ https://github.com/moklick/frontend-stuff
