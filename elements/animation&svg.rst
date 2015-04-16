@@ -1,6 +1,7 @@
 css-анимация
 ------------
 
++ http://www.species-in-pieces.com/#
 + http://adamschwartz.co/magic-of-css/chapters/6-transitions/ туториал анимация
 + https://github.com/h5bp/Effeckt.css мега-библиотека, анимация + боковое меню
 + http://lazylinepainter.info/ рисует поэтапно svg картинку
