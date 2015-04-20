@@ -21,3 +21,7 @@ Dropdown
 Слева
 ---------
 + http://codepen.io/suez/pen/emjwvP/ супер-меню на svg
+
+Pie
+---------
++ http://pmg.softwaretailoring.net/ pie menu generator

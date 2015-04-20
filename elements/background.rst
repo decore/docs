@@ -7,6 +7,7 @@ background
 + фоторама
 + https://github.com/mrdoob/texgen.js процедурный генератор текстур
 + http://riccardoscalco.github.io/textures/ svg текстуры
++ http://qrohlf.com/trianglify-generator/ генератор фона с треугольниками
 
 pages layouts
 ---------------

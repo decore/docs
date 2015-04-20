@@ -1,5 +1,6 @@
-Для de-core.net
+Для de-core.net 
 ---------------
++ http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
 
 Лого с тенью
 """"""""""""
@@ -8,3 +9,5 @@
 Лого стикер в подвале
 """""""""""""""""""""
 + http://stickerjs.cmiscm.com/
+
++ респонзив лого

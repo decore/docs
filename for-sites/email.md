@@ -1,6 +1,6 @@
-Верстка писем
-=============
+### Верстка писем
 
++ http://www.emailframe.work/ email framework
 + http://ux.mailchimp.com/patterns/typography
 + http://buttons.cm/ Пуленепробиваемые кнопки для емейл-рассылок
 + http://backgrounds.cm/ фоновые изображения
@@ -15,4 +15,3 @@
 + билдер писем, хорошая статья https://litmus.com/builder/c5a1d7a
 + https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email
 + https://litmus.com/
-

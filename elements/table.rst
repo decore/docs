@@ -20,6 +20,7 @@
 + http://tristen.ca/tablesort/demo/ – "a small & simple sorting component for tables. Written in Javascript and dependency free"
 + http://www.picnet.com.au/resources/tablefilter/demo.htm 
 + http://tableclothjs.com/ bootstrap
++ http://www.sitepoint.com/responsive-data-tables-comprehensive-list-solutions/ обзор плагинов
 
 Фиксирование шапки у таблицы Fixed Header Tables
 """"""""""""""""""""""""""""""""""""""""""""""""

@@ -98,3 +98,7 @@ User-тестирование
 
 """"""""""""""""""""
 http://habrahabr.ru/post/247847/
+
+турнирная таблица
+""""""""""""""""""""
++ http://css-live.ru/articles-css/adaptivnaya-turnirnaya-setka-na-css3.html
