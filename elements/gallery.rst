@@ -15,6 +15,7 @@
 + http://tympanus.net/Development/AnimatedResponsiveImageGrid/index3.html
 + http://tympanus.net/Development/MockupSlideshow/index4.html галлерея вместо скриншота
 + https://github.com/moklick/frontend-stuff батутный эффект
++ http://codyhouse.co/demo/hero-slider/index.html#0 hero slider
 
 Fancybox
 =======

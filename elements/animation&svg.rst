@@ -13,10 +13,11 @@ css-анимация
 
 svg-анимация
 ------------
-http://alexk111.github.io/SVG-Morpheus/ трансформирует любую картинку в другую картинку
-http://maxwellito.github.io/vivus/ рисует path
-http://css-tricks.com/polylion/ Polylion — анимация полигонов в svg с помощью css
-https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/ SVG-анимация, запускающаяся при прокрутке с помощью ScrollMagic (SVG Scrolling Animation Triggered By ScrollMagic)
++ http://tympanus.net/Development/SVGDrawingAnimation/index.html svg drawing animation codrops
++ http://alexk111.github.io/SVG-Morpheus/ трансформирует любую картинку в другую картинку
++ http://maxwellito.github.io/vivus/ рисует path
++ http://css-tricks.com/polylion/ Polylion — анимация полигонов в svg с помощью css
++ https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/ SVG-анимация, запускающаяся при прокрутке с помощью ScrollMagic (SVG Scrolling Animation Triggered By ScrollMagic)
 
 SVG
 =============

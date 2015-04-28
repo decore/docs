@@ -13,3 +13,9 @@ https://github.com/jsstyles/jss css json
 
 ### Библиотеки
 + https://www.nativescript.org/
+
+### Создание темы пользователем
++ http://tympanus.net/Development/InteractiveColoringConcept/ Interactive Drag and Drop Coloring Concept раскрашивание интерфеса
+
+### Для cборки приложения
++ http://electron.atom.io/

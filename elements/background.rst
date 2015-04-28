@@ -12,3 +12,6 @@ background
 pages layouts
 ---------------
 + http://tympanus.net/Tutorials/SlidingHeaderLayout/layout-multi.html поворот страницы
+
+### фиксирование страницы
++  http://codyhouse.co/demo/fixed-background-effect/index.html#0
