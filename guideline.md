@@ -1,4 +1,4 @@
-# Гайдлайн верстальщиков de-core.net
+# Гайдлайн
 
 ### Верстка
 1. Названия файлов и css классов
@@ -9,7 +9,7 @@
 3. Блочная верстка
     - Каждый блок в отдельной папке
     - В jade/html блока должны быть комментарии в начали и в конце:
-        - ```<!-- start blocks/header, author: Eugen Soloviov -->```
+        - ```<!-- start blocks/header, author: Eugen Soloviov (suenot) -->```
         - ```<!-- end blocks/header -->```
     - В stylus вложенность такая же как в jade
         - все стили блока header лежат внутри .header, а не рядом
