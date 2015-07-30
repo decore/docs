@@ -10,12 +10,12 @@
 3. Блочная верстка
     - Каждый блок в отдельной папке
     - В jade/html блока должны быть комментарии в начали и в конце:
-        ```
-        // start header
-        //- author: Eugen Soloviov (suenot)
-        код блока
-        // end header
-        ```
+```
+// start header
+//- author: Eugen Soloviov (suenot)
+код блока
+// end header
+```
         где Eugen Soloviov - имя и фамилия на латинице
         suenot - ник в скайпе
     - В stylus вложенность такая же как в jade
