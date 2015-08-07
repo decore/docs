@@ -32,4 +32,4 @@
 
 - [Хорошая статья для понимания нейминга селлекторов](http://web-standards.ru/articles/css-architecture/)
 - [Пишем БЭМ правильно](https://www.youtube.com/watch?v=hTmxbJF2Tts)
-
+- [Рекомендации именования блоков от Яндекса](http://yandex-ui.github.io/stylobate-islands/classnames/)
