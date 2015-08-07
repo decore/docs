@@ -30,6 +30,6 @@
 
 ### Дополнительные материалы для изучения BEM - методологии.
 
-[Хорошая статья для понимания нейминга селлекторов](http://web-standards.ru/articles/css-architecture/)
-[Пишем БЭМ правильно](https://www.youtube.com/watch?v=hTmxbJF2Tts)
+- [Хорошая статья для понимания нейминга селлекторов](http://web-standards.ru/articles/css-architecture/)
+- [Пишем БЭМ правильно](https://www.youtube.com/watch?v=hTmxbJF2Tts)
 
