@@ -10,3 +10,6 @@ suenot    ALL=(ALL:ALL) ALL
 ```
 ssh-copy-id user@server
 ```
+
+### Правильная перезагрузка nginx
+``` sudo nginx -t && sudo service nginx restart ```
