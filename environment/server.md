@@ -11,5 +11,9 @@ suenot    ALL=(ALL:ALL) ALL
 ssh-copy-id user@server
 ```
 
+## nginx
 ### Правильная перезагрузка nginx
 ``` sudo nginx -t && sudo service nginx restart ```
+
+### Установка pagespeed
+- https://rtcamp.com/tutorials/nginx/using-pagespeed/
