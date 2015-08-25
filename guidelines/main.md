@@ -14,7 +14,7 @@
         - "suenot" - ник в скайпе
 ```
 // start header
-//- author: Eugen Soloviov (suenot)
+//- Eugen Soloviov (suenot)
 код блока
 // end header
 ```
