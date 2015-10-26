@@ -1,6 +1,7 @@
 # Для de-core.net 
 
 ### шаблон
++ https://codyhouse.co/demo/project-cards-template/index.html
 + http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
 
 ### Лого с тенью
