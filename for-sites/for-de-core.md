@@ -1,13 +1,14 @@
-Для de-core.net 
----------------
+# Для de-core.net 
+
+### шаблон
++ https://codyhouse.co/demo/project-cards-template/index.html
 + http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
 
-Лого с тенью
-""""""""""""
+### Лого с тенью
 + http://www.thepetedesign.com/demos/jquery_flat_shadow_demo.html
 
-Лого стикер в подвале
-"""""""""""""""""""""
+### Лого стикер в подвале
 + http://stickerjs.cmiscm.com/
 
-+ респонзив лого
+### Полезная информация для сайта
++ http://www.frontendhandbook.com/
