@@ -27,3 +27,10 @@ Fancybox
 =======
 + http://www.owlcarousel.owlgraphic.com/ слайдер для товаров
 + https://github.com/jsor/jcarousel слайдер для товаров
+
+
+Вертикальный thumbs
+=======
+http://sachinchoolur.github.io/lightslider/examples.html
+http://www.masterslider.com/features/templates/video-gallery-vertical-thumbs/ платный
+http://www.typicallyspanish.com/royal/templates/gallery-vertical-fade/ платный
