@@ -7,7 +7,7 @@ css-анимация
 + http://lazylinepainter.info/ рисует поэтапно svg картинку
 + http://wellcaffeinated.net/PhysicsJS/examples/showcase.html#demo-8 физика
 + http://a-jie.github.io/Agile/ js to css3
-+ http://elrumordelaluz.github.io/csshake/#1 
++ http://elrumordelaluz.github.io/csshake/#1
 + https://github.com/nosir/obelisk.js кубики
 + http://tweene.com/docs/speed-control/ прокси для 3 библиотек анимации
 
@@ -16,6 +16,7 @@ svg-анимация
 + http://tympanus.net/Development/SVGDrawingAnimation/index.html svg drawing animation codrops
 + http://alexk111.github.io/SVG-Morpheus/ трансформирует любую картинку в другую картинку
 + http://maxwellito.github.io/vivus/ рисует path
++ https://github.com/ConnorAtherton/walkway рисует path
 + http://css-tricks.com/polylion/ Polylion — анимация полигонов в svg с помощью css
 + https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/ SVG-анимация, запускающаяся при прокрутке с помощью ScrollMagic (SVG Scrolling Animation Triggered By ScrollMagic)
 
