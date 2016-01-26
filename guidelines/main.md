@@ -11,10 +11,9 @@
     - Каждый блок в отдельной папке
     - В jade/html блоке должны быть комментарии в начали и в конце:
         - где "Eugen Soloviov" - имя и фамилия на латинице
-        - "suenot" - ник в скайпе
 ```
 // start header
-//- Eugen Soloviov (suenot)
+//- Eugen Soloviov
 код блока
 // end header
 ```
