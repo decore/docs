@@ -6,3 +6,4 @@ map
 + http://maplacejs.com/
 + https://developers.google.com/maps/documentation/javascript/tutorial?hl=ru
 + https://www.google.ru/mapmaker
++ http://maps.stamen.com/
