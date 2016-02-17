@@ -26,7 +26,8 @@
 """"""""""""""""""""""""""""""""""""""""""""""""
 
 + http://tympanus.net/codrops/2014/01/09/sticky-table-headers-columns/ 
-+ https://github.com/jmosbech/StickyTableHeaders 
++ https://github.com/jmosbech/StickyTableHeaders
++ https://github.com/lorenzofox3/lrStickyHeader
 
 Респонзив таблиц
 """"""""""""""""
