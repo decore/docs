@@ -6,6 +6,7 @@
 
 ### Сетки по-типу масонри masonry masonri
 
++ http://callmecavs.com/bricks.js/
 + http://packery.metafizzy.co/
 + http://masonjs.com/
 + http://ed-lea.github.io/jquery-collagePlus/

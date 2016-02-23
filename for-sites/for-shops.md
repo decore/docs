@@ -11,3 +11,4 @@
 + http://tympanus.net/Blueprints/HorizontalSlideOutMenu/
 + http://vitalets.github.io/x-editable/demo.html
 + http://lovicons.com/icons/item/payment-card-glyphs-icon-set.html Векторные иконки пластиковых карточек
++ https://github.com/atayahmet/jquery.easypin подсказки на изображении

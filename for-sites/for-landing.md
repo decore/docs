@@ -7,3 +7,4 @@
 + http://codyhouse.co/demo/animated-headlines/ анимация заголовков
 + https://github.com/AurelioDeRosa/flickr-gallery-demo Создание галереи изображений с Flickr API — стили и логика (Creating an Image Gallery with the Flickr API — Style and Logic)
 + https://www.yotpo.com/verified-product-reviews-by-yotpo/ честные отзывы для сайта
++ http://design.iamvdo.me/stickyElements/ элементы-прилипалы
