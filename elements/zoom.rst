@@ -1,6 +1,7 @@
 zoom зум
 --------
 
++ http://thdoan.github.io/magnify/
 + http://mark-rolich.github.io/Magnifier.js/ 
 + https://github.com/mark-rolich/Event.js
 + http://www.codeforest.net/jquery-zoom-plugin-cloud-zoom
