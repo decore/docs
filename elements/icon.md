@@ -6,4 +6,5 @@
 + https://www.iconfinder.com/
 + http://icomoon.io/app/#/select
 + http://fontawesome.io/icons/
++ http://tympanus.net/Development/Animocons/
 + http://www.ippycon.com/ текстовые иконки Ж)
