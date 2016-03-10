@@ -1,6 +1,6 @@
 Идеи для магазина
 -----------------
-
++ https://reactioncommerce.com/ движок магазина на метеоре
 + http://bite-software.co.uk/squiggle/ перечеркнутый текст 
 + http://tympanus.net/Development/AnimatedCheckboxes/ 
 + http://simplecartjs.org/ магазин на клиенте
