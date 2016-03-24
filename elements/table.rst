@@ -31,7 +31,7 @@
 
 Респонзив таблиц
 """"""""""""""""
-
++ https://css-tricks.com/accessible-simple-responsive-tables/
 + http://fooplugins.com/footable-demos/
   у бутстрапа решение
   у зурба решение
