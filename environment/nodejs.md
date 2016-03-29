@@ -14,17 +14,7 @@ curl https://raw.githubusercontent.com/creationix/nvm/v0.10.0/install.sh | bash
 
 ##### Открыть новую вкладку и ставим nodejs
 ```
-nvm install 0.12
-nvm use 0.12
-nvm alias default 0.12
-```
-
-##### Устанавливаем yeoman
-```
-npm install -g yo generator-webapp
-```
-
-##### Для создания в папке стандартного приложения
-```
-yo webapp
+nvm install 5.0
+nvm use 5.0
+nvm alias default 5.0
 ```
