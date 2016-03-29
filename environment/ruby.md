@@ -1,46 +1,32 @@
 Ruby
 ====
 
-rvm + ruby + rails
-------------------------------------------------
-.. code::
+### [rvm + ruby](https://rvm.io/rvm/install)
 
-    wget --no-check-certificate https://raw.github.com/joshfng/railsready/master/railsready.sh &&bash railsready.sh
-
-// и в новой вкладке выполнить
-
-.. code::
-
-    rvm install 2.1
-    rvm use 2.1 --default
-
-или
-
-.. code::
-
-    curl -L https://get.rvm.io | bash
+```
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+```
 
 // и в новой вкладке выполнить
 
-.. code::
+```
+rvm install 2.1
+rvm use 2.1 --default
+```
 
-    rvm install 2.1
-    rvm use 2.1 --default
+### gemsets
 
 на каждый тип проекта делаем свой gemset
-
-.. code::
-
-    rvm gemset create teddy
+```
+rvm gemset create teddy
+```
 
 используем гемсет
-
-.. code::
-
-    rvm gemset use teddy
-
-либо
-
-.. code::
-
-    rvm use 2.1.1@teddy --default
+```
+rvm gemset use teddy
+```
+или
+```
+rvm use 2.1.1@teddy --default
+```
