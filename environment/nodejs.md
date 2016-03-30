@@ -18,3 +18,8 @@ nvm install 5.0
 nvm use 5.0
 nvm alias default 5.0
 ```
+
+#### Для использования локальных пакетов добавляем PATH
+```
+PATH=$PATH:node_modules/.bin
+```
