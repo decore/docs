@@ -77,6 +77,7 @@ User-тестирование
 + http://keithcirkel.co.uk/jwerty/ клавиатурные сочетания, горячие сочетания на сайте
 
 + http://dmauro.github.io/Keypress/ обработка нажатий
++ http://ayrton.be/react-key-handler/
 + Keyboard
 + Mousetrap
 + Keypress
