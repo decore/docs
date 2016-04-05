@@ -1,2 +1,2 @@
-ws -c
-ngrok http 8000
+```ws -c```
+```ngrok http 8000```
