@@ -1,6 +1,4 @@
-Календари
----------
-
+### Календари
 + http://kthornbloom.com/monthly/
 + https://github.com/eternicode/bootstrap-datepicker/tree/release
 + https://github.com/bevacqua/rome 
@@ -12,7 +10,6 @@
 + Гугл календарь через апи или iframe
 + https://github.com/react-component/calendar
 
-Datepicker
-""""""""""
-
+### Datepicker
 + https://avia.yandex.ru/ суперская реализация
++ http://kthornbloom.com/monthly/
