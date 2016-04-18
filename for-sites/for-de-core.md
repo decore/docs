@@ -12,3 +12,6 @@
 
 ### Полезная информация для сайта
 + http://www.frontendhandbook.com/
+
+### Пример хоророшего портфолио
++ http://austin-weight.com/
