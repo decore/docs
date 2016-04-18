@@ -6,6 +6,7 @@
 
 ### Сетки по-типу масонри masonry masonri
 
++ https://github.com/flickr/justified-layout
 + http://tympanus.net/Development/GammaGallery/
 + https://github.com/ademilter/bricklayer
 + http://callmecavs.com/bricks.js/
