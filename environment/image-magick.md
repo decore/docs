@@ -15,6 +15,10 @@ Image Magick
    find . -iregex '.*.jpg' -exec convert '{}' -resize 400*300 -quality 30 jpg:'{}' \;
 или тоже самое, но проще
 ```
+чаще не нужно уменьшать размер, а только качество:
+```
+find . -iregex '.*.jpg' -exec convert '{}' -quality 30 jpg:'{}' \;
+```
 
 ```
    mogrify -resize 400*300 -quality 30  *.jpg
