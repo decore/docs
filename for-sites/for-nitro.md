@@ -1,39 +1,23 @@
-Для тренажера nitro
--------------------
+## Для тренажера nitro
 + http://dropthebit.com/demos/fancy_input/fancyInput.html
 
-
-User-тестирование
-"""""""""""""""""
+### User-тестирование
 + http://peek.usertesting.com/ 
 
-
-Капча capcha
-""""""""""""
-
+### Капча capcha
 + https://www.google.com/recaptcha/intro/index.html
 
+### Редактирование текста
 
-Редактирование текста
-"""""""""""""""""""""
+### http://toopay.github.io/bootstrap-markdown/
 
-+ http://toopay.github.io/bootstrap-markdown/
-
-
-Генерация дат
-"""""""""""""
-
+### Генерация дат
 + http://habrahabr.ru/post/204162/
 
-
-Работа со временем time
-"""""""""""""""""""""""
-
+### Работа со временем time
 + http://momentjs.com/ 
 
-
-Материалы для nq на dribbble.com
-""""""""""""""""""""""""""""""""
+### Материалы для nq на dribbble.com
 + http://dribbble.com/shots/1164858-CSS-Icons
 + http://dribbble.com/shots/759335-Gauge-Needles-psd
 + http://dribbble.com/shots/799903-Levels-psd
@@ -44,30 +28,20 @@ User-тестирование
 + http://dribbble.com/shots/707265-Credit-card-form ввод данных крединтной карты
 + http://dribbble.com/shots/692941-Icons тематические иконки (спидометр, колеса)
 + http://dribbble.com/shots/1011326-Volvo-Cars-Official-Playoff
-Тачки
-^^^^^
+##### Тачки
  + http://dribbble.com/shots/228352-cross-country
  + http://dribbble.com/shots/130389-Car-icons-for-Autokadabra-ru
 
-
-Плавно появляющийся текст
-"""""""""""""""""""""""""
-
+### Плавно появляющийся текст
 + http://jsbin.com/ogevob/1/edit
 + http://jsbin.com/opihux/2/edit
 
-
-Главная
-"""""""
-
+### Главная
 + http://nettuts.s3.amazonaws.com/127_iNETTUTS/demo/index.html
 + http://gridster.net/
 + http://mcpants.github.io/jquery.shapeshift/ альтернатива
 
-
-Приборная панель
-""""""""""""""""
-
+### Приборная панель
 + http://codepen.io/RadValentin/pen/zmsox
 + http://codepen.io/clknap/pen/raJowJ
 + http://codepen.io/maggiben/pen/DpuBl
@@ -76,6 +50,7 @@ User-тестирование
 + http://ahrengot.com/playground/tweenmax-examples/counter/ изменение значения числа с изменяющейся скоростью 
 + http://keithcirkel.co.uk/jwerty/ клавиатурные сочетания, горячие сочетания на сайте
 
+### Нажатия, хоткеи shortcut, hotkeys
 + http://dmauro.github.io/Keypress/ обработка нажатий
 + http://ayrton.be/react-key-handler/
 + Keyboard
@@ -85,21 +60,16 @@ User-тестирование
 + Keys.js
 + keymage.js
 + http://www.impressivewebs.com/questionmark-js-shortcut-keys-displayed/ список горячих сочетаний на сайте
++ https://github.com/florian/react-shortcut-chooser React component that lets the user choose a keyboard shortcut
 
-для мобильной версии
-""""""""""""""""""""
-
+### для мобильной версии
 + https://github.com/ftlabs/fastclick убирает ожидание двойного клика
 
-идеи
-""""""""""""""""""""
+### идеи
 разделить блок с заездами на блоки/колонки (можно по тематикам, командам, типам заезда, языкам)
 
-для бота
-
-""""""""""""""""""""
+### для бота
 http://habrahabr.ru/post/247847/
 
-турнирная таблица
-""""""""""""""""""""
+### турнирная таблица
 + http://css-live.ru/articles-css/adaptivnaya-turnirnaya-setka-na-css3.html
