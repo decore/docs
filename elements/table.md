@@ -1,14 +1,7 @@
-Таблицы
-=======
+## Таблицы
++ http://css-tricks.com/complete-guide-table-element/ Гайд по таблицам
 
-Гайд по таблицам
-""""""""""""""""
-
-+ http://css-tricks.com/complete-guide-table-element/ 
-
-Сортировка таблиц datagrid
-""""""""""""""""""""""""""
-
+### Сортировка таблиц datagrid
 + http://js-grid.com/demos/
 + http://fooplugins.com/footable-demos/
 + http://listjs.com/ таблиц, списков, массивов
@@ -22,24 +15,19 @@
 + http://tableclothjs.com/ bootstrap
 + http://www.sitepoint.com/responsive-data-tables-comprehensive-list-solutions/ обзор плагинов
 
-Фиксирование шапки у таблицы Fixed Header Tables
-""""""""""""""""""""""""""""""""""""""""""""""""
-
+### Фиксирование шапки у таблицы Fixed Header Tables
 + http://tympanus.net/codrops/2014/01/09/sticky-table-headers-columns/ 
 + https://github.com/jmosbech/StickyTableHeaders
 + https://github.com/lorenzofox3/lrStickyHeader
 
-Респонзив таблиц
-""""""""""""""""
+### Респонзив таблиц
 + https://css-tricks.com/accessible-simple-responsive-tables/
 + http://fooplugins.com/footable-demos/
-  у бутстрапа решение
-  у зурба решение
++ у бутстрапа решение
++ у зурба решение
 + http://codeb.it/restable/
 + http://elvery.net/demo/responsive-tables/
 + http://tympanus.net/Development/ArticleIntroEffects/index.html
 
-Фиксирование шапки таблицы
-""""""""""""""""""""""""""
-
+### Фиксирование шапки таблицы
 + http://fixedheadertable.com/
