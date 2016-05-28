@@ -1,6 +1,6 @@
-timeline
---------
+### timeline
 
++ http://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528
 + https://github.com/jiahuang/d3-timeline
 + http://timeline.knightlab.com/
 + http://visjs.org/ 
