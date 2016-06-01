@@ -1,5 +1,4 @@
-zoom зум
---------
+### zoom зум
 
 + http://thdoan.github.io/magnify/
 + http://mark-rolich.github.io/Magnifier.js/ 
@@ -15,4 +14,5 @@ zoom зум
 + http://www.elevateweb.co.uk/image-zoom/examples
 + http://zoomsl.tw1.ru/example/
 + http://www.ajax-zoom.com/examples/example32.php
-+ http://www.mind-projects.it/projects/jqzoom/demos.php#demo1 
++ http://www.mind-projects.it/projects/jqzoom/demos.php#demo1
++ https://github.com/chinchang/simplezoom.js
