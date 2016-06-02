@@ -1,5 +1,4 @@
-Слайдеры
-========
+### Слайдеры
 
 + http://flickity.metafizzy.co/
 + http://fotorama.io/use/
@@ -17,20 +16,16 @@
 + https://github.com/moklick/frontend-stuff батутный эффект
 + http://codyhouse.co/demo/hero-slider/index.html#0 hero slider
 
-Fancybox
-=======
+### Fancybox
 + http://photoswipe.com/
 + fancybox 2
 + venobox
 
-Слайдеры для товаров
-=======
+### Слайдеры для товаров
 + http://www.owlcarousel.owlgraphic.com/ слайдер для товаров
 + https://github.com/jsor/jcarousel слайдер для товаров
 
-
-Вертикальный thumbs
-=======
+### Вертикальный thumbs
 http://sachinchoolur.github.io/lightslider/examples.html
 http://www.masterslider.com/features/templates/video-gallery-vertical-thumbs/ платный
 http://www.typicallyspanish.com/royal/templates/gallery-vertical-fade/ платный
