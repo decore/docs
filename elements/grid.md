@@ -1,11 +1,10 @@
 ### Обычные сетки
-
 + http://flexboxgrid.com/
 + http://neat.bourbon.io/ 
 + http://jeet.gs/ 
 
 ### Сетки по-типу масонри masonry masonri
-
++ https://github.com/callmecavs/bricks.js
 + https://github.com/flickr/justified-layout
 + http://tympanus.net/Development/GammaGallery/
 + https://github.com/ademilter/bricklayer
