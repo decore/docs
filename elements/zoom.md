@@ -1,5 +1,6 @@
 ### zoom зум
 
++ https://github.com/imgix/drift vanilla js
 + http://thdoan.github.io/magnify/
 + http://mark-rolich.github.io/Magnifier.js/ 
 + https://github.com/mark-rolich/Event.js
