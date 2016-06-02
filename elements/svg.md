@@ -1,6 +1,4 @@
-css-анимация
-------------
-
+### css-анимация
 + http://www.species-in-pieces.com/#
 + http://adamschwartz.co/magic-of-css/chapters/6-transitions/ туториал анимация
 + https://github.com/h5bp/Effeckt.css мега-библиотека, анимация + боковое меню
@@ -11,8 +9,8 @@ css-анимация
 + https://github.com/nosir/obelisk.js кубики
 + http://tweene.com/docs/speed-control/ прокси для 3 библиотек анимации
 
-svg-анимация
-------------
+### svg-анимация
++ http://mojs.io/tutorials/easing/path-easing/
 + http://tympanus.net/Development/SVGDrawingAnimation/index.html svg drawing animation codrops
 + http://alexk111.github.io/SVG-Morpheus/ трансформирует любую картинку в другую картинку
 + http://maxwellito.github.io/vivus/ рисует path
@@ -20,50 +18,38 @@ svg-анимация
 + http://css-tricks.com/polylion/ Polylion — анимация полигонов в svg с помощью css
 + https://ihatetomatoes.net/svg-scrolling-animation-triggered-scrollmagic/ SVG-анимация, запускающаяся при прокрутке с помощью ScrollMagic (SVG Scrolling Animation Triggered By ScrollMagic)
 
-SVG
-=============
-
-svg библиотеки
-""""""""""""""
+### svg библиотеки
 + http://snapsvg.io/
 + http://bonsaijs.org/
 + http://www.svgjs.com/
 + http://raphaeljs.com/
 + http://qrohlf.com/trianglify/ — JS библиотека для генерации абстрактного геометрического фона в SVG и CSS
 
-svg иконки реализация
-"""""""""""""""""""""
+### svg иконки реализация
 + http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/
 
-Как упаковывать svg
-"""""""""""""""""""
+### Как упаковывать svg
 + http://www.sitepoint.com/designers-guide-working-with-svg/
 
-Как подключать inline svg через localstorage
-"""""""""""""""""""
+### Как подключать inline svg через localstorage
 + http://osvaldas.info/caching-svg-sprite-in-localstorage
 + https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/ свг спрайт
 
-SVG в шрифт
-"""""""""""
+### SVG в шрифт
 + http://iconvau.lt/
 + http://css-tricks.com/web-audio-api-sound-on-hover/ добавление звука при наведении
 + http://tympanus.net/Development/IconHoverEffects/ классная анимация ширфтовых иконок при ховере
 
-Polyfill
-""""""""
+### Polyfill
 + http://www.sitepoint.com/graceful-fallback-svgs-old-ie/ polyfill svg
 
-Утилиты
-""""""""
+### Утилиты
 + https://jakearchibald.github.io/svgomg/ web gui svgo
 + http://buseca.github.io/patternbolt/ svg паттерны
 
-Примеры
-""""""""
+### Примеры
 + https://designer.illustrio.com/galleries?id=54215e00503b5c20c3337bfd&example=542c38335b4cf1e85db5649c хорошая галерия примеров свг
 + http://www.sitepoint.com/graceful-fallback-svgs-old-ie/ polyfill svg
 
-Gulp
-""""""""
+### Gulp
 + https://github.com/w0rm/gulp-svgstore
