@@ -15,3 +15,4 @@
 
 ### video background
 + https://github.com/rishabhp/bideo.js
++ https://github.com/bfred-it/iphone-inline-video iphone background video, частая проблема
