@@ -6,6 +6,8 @@
 + http://visjs.org/ 
 + http://codyhouse.co/demo/vertical-timeline/index.html
 + http://cheeaun.life/
-
 + https://almsaeedstudio.com/preview
 + http://themeforest.net/item/edumix-foundation-zurb-admin-dashboard/full_screen_preview/10525482
+
+### timesheet
++ https://sbstjn.github.io/timesheet.js/
