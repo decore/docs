@@ -1,5 +1,5 @@
 ### Слайдеры
-
++ https://codyhouse.co/demo/radial-svg-slider/index.html#0
 + http://flickity.metafizzy.co/
 + http://fotorama.io/use/
 + http://tympanus.net/Development/WobblySlideshowEffect/
