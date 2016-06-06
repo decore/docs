@@ -15,4 +15,5 @@
 
 ### video background
 + https://github.com/rishabhp/bideo.js
++ https://notes.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10#.dupjhdo97
 + https://github.com/bfred-it/iphone-inline-video iphone background video, частая проблема
