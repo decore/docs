@@ -14,6 +14,9 @@
 +  http://codyhouse.co/demo/fixed-background-effect/index.html#0
 
 ### video background
++ https://toster.ru/q/162349
++ у vimeo есть апи для вставки видео на сайт
++ http://www.seanmccambridge.com/tubular/
 + https://github.com/rishabhp/bideo.js
 + https://notes.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10#.dupjhdo97
 + https://github.com/bfred-it/iphone-inline-video iphone background video, частая проблема
