@@ -1,5 +1,4 @@
-Валидация
----------
+### Валидация validation
 
 + http://parsleyjs.org/ rails и django
 + http://reactiveraven.github.io/jqBootstrapValidation/ для bootstrap
