@@ -14,9 +14,9 @@ curl https://raw.githubusercontent.com/creationix/nvm/v0.10.0/install.sh | bash
 
 ### Открыть новую вкладку и ставим nodejs
 ```
-nvm install 5.0
-nvm use 5.0
-nvm alias default 5.0
+nvm install 6
+nvm use 6
+nvm alias default 6
 ```
 
 ### Для использования локальных пакетов добавляем PATH
