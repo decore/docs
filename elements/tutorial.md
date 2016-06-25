@@ -1,5 +1,4 @@
-Обучалки
-========
+### Обучалки
 
 + http://zzarcon.github.io/focusable/ 
 + http://ellekasai.github.io/purplecoat.js/
