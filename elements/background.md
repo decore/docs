@@ -15,6 +15,7 @@
 
 ### video background
 + https://toster.ru/q/162349
++ https://dvlden.github.io/Vidage/
 + у vimeo есть апи для вставки видео на сайт
 + http://www.seanmccambridge.com/tubular/
 + https://github.com/rishabhp/bideo.js
