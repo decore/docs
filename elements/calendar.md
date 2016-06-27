@@ -11,5 +11,6 @@
 + https://github.com/react-component/calendar
 
 ### Datepicker
++ https://chmln.github.io/flatpickr/
 + https://avia.yandex.ru/ суперская реализация
 + http://kthornbloom.com/monthly/
