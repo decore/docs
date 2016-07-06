@@ -18,3 +18,4 @@
 + http://brunjo.github.io/rowGrid.js/ 
 + http://demosthenes.info/blog/844/Easy-Masonry-Layout-With-Flexbox на flexbox
 + https://strml.github.io/react-grid-layout/examples/0-showcase.html React-Grid-Layout masonry
++ http://unitegallery.net/index.php?page=tiles-columns
