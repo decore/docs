@@ -6,6 +6,7 @@
 + https://github.com/mrdoob/texgen.js процедурный генератор текстур
 + http://riccardoscalco.github.io/textures/ svg текстуры
 + http://qrohlf.com/trianglify-generator/ генератор фона с треугольниками
++ https://www.gradient-animator.com/ анимированный градиентный фон
 
 ### pages layouts
 + http://tympanus.net/Tutorials/SlidingHeaderLayout/layout-multi.html поворот страницы
