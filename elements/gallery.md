@@ -21,6 +21,7 @@
 + http://photoswipe.com/
 + fancybox 2
 + venobox
++ https://github.com/sachinchoolur/lightgallery.js
 
 ### Слайдеры для товаров
 + http://www.owlcarousel.owlgraphic.com/ слайдер для товаров
