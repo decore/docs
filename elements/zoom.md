@@ -1,5 +1,6 @@
 ### zoom зум
 
++ https://github.com/timmywil/jquery.panzoom простой скрипт для карт с зумом
 + https://github.com/imgix/drift vanilla js
 + http://thdoan.github.io/magnify/
 + http://mark-rolich.github.io/Magnifier.js/ 
