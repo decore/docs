@@ -14,3 +14,4 @@
 + https://chmln.github.io/flatpickr/
 + https://avia.yandex.ru/ суперская реализация
 + http://kthornbloom.com/monthly/
++ https://github.com/airbnb/react-dates react
