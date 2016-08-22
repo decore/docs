@@ -7,3 +7,4 @@
 + http://zencode.in/lining.js/#demo-3 :nth-line(), content: attr(index) '.'
 + https://github.com/leeoniya/preCode.js pre
 + http://gabinaureche.com/TheaterJS/ автоматический набор текста, имитирующий поведение человека
++ https://github.com/ytiurin/hyphen библиотека для выставления дефиса при переносе слов
