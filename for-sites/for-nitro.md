@@ -51,6 +51,7 @@
 + http://keithcirkel.co.uk/jwerty/ клавиатурные сочетания, горячие сочетания на сайте
 
 ### Нажатия, хоткеи shortcut, hotkeys
++ https://github.com/chrisui/react-hotkeys react
 + http://dmauro.github.io/Keypress/ обработка нажатий
 + http://ayrton.be/react-key-handler/
 + Keyboard
