@@ -7,6 +7,7 @@
 + http://riccardoscalco.github.io/textures/ svg текстуры
 + http://qrohlf.com/trianglify-generator/ генератор фона с треугольниками
 + https://www.gradient-animator.com/ анимированный градиентный фон
++ http://createjs.com/demos/easeljs/alphamaskreveal alpha mask filter запотевший фон, который можно почистить
 
 ### pages layouts
 + http://tympanus.net/Tutorials/SlidingHeaderLayout/layout-multi.html поворот страницы
