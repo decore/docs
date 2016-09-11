@@ -8,4 +8,6 @@
 + https://www.google.ru/mapmaker
 + http://maps.stamen.com/
 
-+ https://github.com/timmywil/jquery.panzoom не карта, но для прострых примеров подойдет
+### panzoom
++ https://github.com/ariutta/svg-pan-zoom#demos
++ https://github.com/timmywil/jquery.panzoom
