@@ -1,5 +1,6 @@
 ### Верстка писем
 
++ https://foundation.zurb.com/emails/docs/inky.html
 + https://mjml.io/
 + http://habrahabr.ru/company/pechkin/blog/273677/ полезные руководства
 + http://www.emailframe.work/ email framework
