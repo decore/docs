@@ -1,5 +1,6 @@
 ### Слайдеры
 
++ https://github.com/lmgonzalves/elastic-slider#usage
 + http://codepen.io/mrspok407/pen/NRxBWa
 + https://codyhouse.co/demo/radial-svg-slider/index.html#0
 + http://flickity.metafizzy.co/
