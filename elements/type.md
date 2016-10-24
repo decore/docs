@@ -1,5 +1,6 @@
 ### Типографика
 
++ http://tympanus.net/Development/LetterEffects/ анимированный текст
 + https://github.com/kyleamathews/typography.js примеры типографики + использование с react
 + http://typejs.org/ отступы между буквами
 + https://eager.io/showcase/SmartUnderline/ true подчеркивание
