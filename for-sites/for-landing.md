@@ -1,4 +1,6 @@
 ### Для лендингов
+
++ http://tympanus.net/Development/LetterEffects/ анимированный текст
 + http://tympanus.net/Tutorials/PageRevealEffects/
 + http://tympanus.net/Development/SectionSeparators/ типы разделителей
 + http://mynoise.net/noiseMachines.php
