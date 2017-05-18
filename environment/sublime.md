@@ -25,25 +25,32 @@ ColorPicker
 emmet
 coffee
 stylus
+vue
+react
+angular
 ```
 
 По желаению ставим:
 
 ```
-less
+WakaTime
 jade
-haml
-slim
-coffeelint
 lint
 ```
 
-### Добавляем нужные параметры в пользовательские настройки
+### Пользовательские настройки
 
 ```
-"draw_white_space": "all",
-"update_check": false,
-"folder_exclude_patterns": [".svn", ".hg", "CVS"]
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"draw_white_space": "all",
+	"update_check": false,
+	"folder_exclude_patterns": [".svn", ".hg", "CVS"]
+}
+
 ```
 
 ### Документация по [Emmet sublime]
