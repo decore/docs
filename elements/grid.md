@@ -4,6 +4,7 @@
 + http://jeet.gs/ 
 
 ### Сетки по-типу масонри masonry masonri
++ https://tympanus.net/Development/GridLoadingAnimations/#
 + https://github.com/callmecavs/bricks.js
 + http://tympanus.net/Development/ItemRevealer/
 + https://github.com/flickr/justified-layout
