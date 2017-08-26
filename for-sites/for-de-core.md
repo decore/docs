@@ -3,6 +3,8 @@
 ### шаблон
 + https://codyhouse.co/demo/project-cards-template/index.html
 + http://tympanus.net/codrops/2015/04/15/grid-item-animation-layout/
++ https://www.skcript.com/about/
++ https://ico.jincor.com/
 
 ### Лого с тенью
 + http://www.thepetedesign.com/demos/jquery_flat_shadow_demo.html
