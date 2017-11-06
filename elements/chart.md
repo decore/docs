@@ -1,5 +1,6 @@
 ### Графики
 
++ https://frappe.github.io/charts/
 + https://github.com/recharts/recharts react
 + http://www.zingchart.com/
 + http://metricsgraphicsjs.org/examples.htm
