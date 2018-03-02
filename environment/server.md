@@ -8,6 +8,7 @@ suenot    ALL=(ALL:ALL) ALL
 
 ### Копирование ключей на сервер
 ```
+brew install ssh-copy-id // для os x
 ssh-copy-id user@server
 ```
 
