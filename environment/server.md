@@ -2,7 +2,7 @@
 ```
 useradd -d /home/suenot -s /bin/bash -m suenot
 passwd suenot
-cd /etc/sudoers
+vim /etc/sudoers
 suenot    ALL=(ALL:ALL) ALL
 ```
 
