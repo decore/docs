@@ -1,3 +1,8 @@
+### Locals
+```
+export LC_ALL=C
+```
+
 ### Добавление sudo пользователя
 ```
 useradd -d /home/suenot -s /bin/bash -m suenot
