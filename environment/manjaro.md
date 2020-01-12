@@ -1,6 +1,6 @@
 ### Guide
 
-- [https://lobotuerto.com/blog/manjaro-linux-i3-setup-cheat-sheet/#.i3%2Fconfig-changes](complex guilde)
+- [Complex guide](https://lobotuerto.com/blog/manjaro-linux-i3-setup-cheat-sheet/#.i3%2Fconfig-changes)
 
 ### Inotify
 
