@@ -11,3 +11,9 @@ echo fs.inotify.max_user_watches=524288 | sudo tee \
 # check inotify
 cat /proc/sys/fs/inotify/max_user_watches
 ```
+
+### Python
+
+```
+sudo pacman -S python-virtualenv
+```
