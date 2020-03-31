@@ -2,6 +2,8 @@
 
 ```
 {
-    "editor.renderWhitespace": true
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1,
+    "javascript.updateImportsOnFileMove.enabled": "never"
 }
 ```
