@@ -1,5 +1,7 @@
-```ln -s /Volumes/data/MobileSync /Users/suenot/Library/Application\ Support/MobileSync```
+```ln -s <что> <куда>```
+
+```ln -s /Users/suenot/Library/Application\ Support/MobileSync /Volumes/data/MobileSync```
 
 или
 
-```ln -s /Volumes/data/MobileSync "/Users/suenot/Library/Application Support/MobileSync"```
+```ln -s "/Users/suenot/Library/Application Support/MobileSync" /Volumes/data/MobileSync```
