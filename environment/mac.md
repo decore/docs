@@ -3,17 +3,19 @@
 https://developer.apple.com/downloads/index.action
 ```
 
-Ставим Homebrew
+#### Ставим Homebrew
 ```sh
 http://brew.sh/
 ```
 
-Ставим pip
+
+#### Ставим pip
 ```sh
 sudo easy_install pip
 ```
 
-Извращения с установкой python3 и pip3
+
+#### Установка python3 и pip3
 ```sh
 curl -O http://python-distribute.org/distribute_setup.py
 sudo python3 distribute_setup.py
@@ -26,4 +28,10 @@ sudo python3 get-pip.py
 
 ```sh
 export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
+```
+
+#### Watchers
+```sh
+echo fs.inotify.max_user_watches=65536 | sudo tee -a /etc/sysctl.conf
+cat /etc/sysctl.conf # проверить, что переопределили max_user_watchers
 ```
