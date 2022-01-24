@@ -30,6 +30,11 @@ sudo python3 get-pip.py
 export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
 ```
 
+### Отключаем запуск Music
+```
+brew install --cask notunes
+```
+
 #### Watchers
 ```sh
 echo fs.inotify.max_user_watches=65536 | sudo tee -a /etc/sysctl.conf
