@@ -30,7 +30,7 @@ sudo python3 get-pip.py
 export PATH=/Library/Frameworks/Python.framework/Versions/3.3/bin:$PATH
 ```
 
-### Отключаем запуск Music
+### Отключаем запуск Music при подключении наушников
 ```
 brew install --cask notunes
 ```
@@ -40,3 +40,9 @@ brew install --cask notunes
 echo fs.inotify.max_user_watches=65536 | sudo tee -a /etc/sysctl.conf
 cat /etc/sysctl.conf # проверить, что переопределили max_user_watchers
 ```
+
+#### Disable swipe history in browsers
+```sh
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
+```
+
