@@ -1,3 +1,10 @@
+### Install and run sshd
+
+```
+sudo apt-get install openssh-server
+sudo systemctl enable ssh --now
+```
+
 To change the port for the SSH daemon (`sshd`), you need to edit the configuration file `/etc/ssh/sshd_config`. Here's a step-by-step guide to doing this:
 
 1. **Open the SSH configuration file in a text editor:**
