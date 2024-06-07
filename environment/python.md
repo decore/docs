@@ -2,6 +2,6 @@
 ```
 pip3 install virtualenv
 
-virtualenv enviroment_name -p python3
-source enviroment_name/bin/activate
+python3 -m venv venv           
+source venv/bin/activate   
 ```
