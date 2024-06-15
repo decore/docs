@@ -1,3 +1,8 @@
+# Pip
+```
+sudo apt install -y python3-pip
+```
+
 # Env
 ```
 pip3 install virtualenv
