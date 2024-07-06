@@ -1,3 +1,16 @@
+# tldr
+sudo ufw allow 4242/tcp
+sudo nano /etc/ssh/sshd_config
+```
+Port 4242
+```
+sudo systemctl restart sshd
+sudo systemctl restart ssh
+
+# check
+ssh -p 4242 user@your_server_ip
+
+
 ### Install and run sshd
 
 ```
