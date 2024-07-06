@@ -1,11 +1,13 @@
 # tldr
+# tldr
+sudo ufw allow 22/tcp
 sudo ufw allow 4242/tcp
-sudo nano /etc/ssh/sshd_config
-```
-Port 4242
-```
+echo "Port 4242" | sudo tee -a /etc/ssh/sshd_config
 sudo systemctl restart sshd
 sudo systemctl restart ssh
+
+# check
+ssh -p 4242 user@your_server_ip
 
 ### check
 ssh -p 4242 user@your_server_ip
