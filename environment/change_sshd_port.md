@@ -7,9 +7,10 @@ Port 4242
 sudo systemctl restart sshd
 sudo systemctl restart ssh
 
-# check
+### check
 ssh -p 4242 user@your_server_ip
 
+# Long instruction
 
 ### Install and run sshd
 
