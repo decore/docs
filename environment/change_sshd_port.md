@@ -1,5 +1,4 @@
 # tldr
-# tldr
 sudo ufw allow 22/tcp
 sudo ufw allow 4242/tcp
 echo "Port 4242" | sudo tee -a /etc/ssh/sshd_config
