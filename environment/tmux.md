@@ -10,6 +10,6 @@ CTRL+B then 0 // переключиться на первое окно
 CTRL+B then стрелка/n/p // переключиться на соседнее окно
 CTRL+B then D // выйти из сессии, не закрываю сессию
 CTRL-B then , (tmux rename-window)
-exit // выйти из сессии
+:kill-session // выйти из сессии
 CTRL-B then [ // scroll mode: Arrows, PgDn/PgUp, q to quit scorll mode
 ```
